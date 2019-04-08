@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Inicio
   - link: "#"
-    link_text: Features
+    link_text: Descripción
   - link: "#"
     link_text: Pricing
   - link: "#"
