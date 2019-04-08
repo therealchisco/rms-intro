@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/logo.png"
   navigation:
   - link: "/"
-    link_text: Home
+    link_text: Inicio
   - link: "#"
     link_text: Features
   - link: "#"
